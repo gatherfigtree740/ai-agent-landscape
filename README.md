@@ -202,6 +202,24 @@ Read the full approach in [docs/methodology.md](./docs/methodology.md).
 - [ ] Add changelog and update cadence
 - [ ] Add "best by use case" pages
 
+## 🔐 Trust and safety
+
+This repo is intentionally low-risk to browse and contribute to.
+
+Right now it contains:
+- Markdown docs
+- SVG assets
+- CSV data
+- GitHub templates
+
+It does **not** contain:
+- install scripts
+- runtime services
+- package hooks
+- GitHub Actions workflows
+
+More detail: [SECURITY.md](./SECURITY.md)
+
 ## 🤝 Contributing
 
 Contributions are welcome, especially if you can help with:
