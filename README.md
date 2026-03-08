@@ -21,6 +21,7 @@
   <a href="#-featured-picks">Featured Picks</a> •
   <a href="#-comparison-snapshot">Comparison Snapshot</a> •
   <a href="#-categories">Categories</a> •
+  <a href="#-use-case-guides">Use-Case Guides</a> •
   <a href="#-how-this-repo-thinks">How This Repo Thinks</a> •
   <a href="#-contributing">Contributing</a>
 </p>
@@ -145,6 +146,12 @@ Building blocks for developers who want to create custom agents and orchestratio
 
 **Examples:** LangGraph, AutoGen, Semantic Kernel, PydanticAI, Mastra, smolagents, LlamaIndex.
 
+## 📚 Use-case guides
+
+- [Best by Use Case](./docs/best-by-use-case.md)
+- [Methodology](./docs/methodology.md)
+- [Maintainer Notes](./docs/maintainer-notes.md)
+
 ## 🧭 How to use this repo
 
 This repo is for four kinds of people:
@@ -180,6 +187,8 @@ Read the full approach in [docs/methodology.md](./docs/methodology.md).
 ├── README.md
 ├── LICENSE
 ├── CONTRIBUTING.md
+├── SECURITY.md
+├── SUPPORT.md
 ├── assets/
 │   ├── hero.svg
 │   └── logo.svg
@@ -187,6 +196,8 @@ Read the full approach in [docs/methodology.md](./docs/methodology.md).
 │   ├── agents.csv
 │   └── categories.md
 ├── docs/
+│   ├── best-by-use-case.md
+│   ├── maintainer-notes.md
 │   └── methodology.md
 └── .github/
     └── ISSUE_TEMPLATE/
@@ -199,10 +210,10 @@ Read the full approach in [docs/methodology.md](./docs/methodology.md).
 - [x] Publish an initial comparison snapshot
 - [x] Expand the dataset to 75+ strong entries
 - [ ] Add sharper pricing / hosting / licensing metadata
-- [ ] Add category-specific shortlists and buying guides
+- [x] Add category-specific shortlists and buying guides
 - [ ] Add generated website / docs experience
 - [ ] Add changelog and update cadence
-- [ ] Add "best by use case" pages
+- [x] Add "best by use case" pages
 
 ## 🔐 Trust and safety
 
