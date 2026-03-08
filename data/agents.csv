@@ -1,0 +1,11 @@
+name,url,category,open_source,best_for,pricing,hosting,notes
+OpenHands,https://github.com/All-Hands-AI/OpenHands,Coding Agent,yes,Autonomous coding tasks,open-source,local/cloud,Strong OSS mindshare
+Codex CLI,https://openai.com,Coding Agent,no,Direct coding assistance,paid,cloud,Useful for code edit loops
+Claude Code,https://www.anthropic.com,Coding Agent,no,Large refactors and repo reasoning,paid,cloud,Strong architecture and repo-scale reasoning
+Cursor,https://www.cursor.com,Coding Agent,no,IDE-native coding workflows,paid,cloud,Popular app-dev workflow
+OpenClaw,https://github.com/openclaw/openclaw,Personal Assistant / Agent Runtime,yes,Cross-channel assistant workflows,open-source,local/self-hosted,Broad tool and device orchestration
+Browser Use,https://github.com/browser-use/browser-use,Browser Agent,yes,Browser automation,open-source,local/cloud,Strong OSS browser-agent visibility
+Goose,https://github.com/block/goose,General Agent,yes,Extensible local agent workflows,open-source,local,Developer-focused OSS project
+AutoGen,https://github.com/microsoft/autogen,Agent Framework,yes,Multi-agent orchestration,open-source,local/cloud,Framework not turnkey product
+CrewAI,https://github.com/crewAIInc/crewAI,Agent Framework,yes,Workflow-style multi-agent systems,open-source/paid,local/cloud,Popular among builders
+LangGraph,https://github.com/langchain-ai/langgraph,Agent Framework,yes,Graph-based agent systems,open-source/paid,local/cloud,Strong for controlled flows
