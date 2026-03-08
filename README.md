@@ -49,6 +49,8 @@ Not a dressed-up SEO farm.
 
 The goal is simple: **help people find the right agent faster**.
 
+The repo is already tracking **80+ tools** across coding, browser automation, research, workflows, assistants, and frameworks.
+
 ## ⚡ Start Here
 
 If you only spend 30 seconds here, use this flow:
@@ -195,7 +197,7 @@ Read the full approach in [docs/methodology.md](./docs/methodology.md).
 - [x] Ship a credible public repo structure
 - [x] Add visual identity assets
 - [x] Publish an initial comparison snapshot
-- [ ] Expand the dataset to 75+ strong entries
+- [x] Expand the dataset to 75+ strong entries
 - [ ] Add sharper pricing / hosting / licensing metadata
 - [ ] Add category-specific shortlists and buying guides
 - [ ] Add generated website / docs experience
