@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Read the methodology
-    url: https://github.com/ginhooser-cyber/ai-agent-landscape/blob/main/docs/methodology.md
-    about: Check how the repo evaluates and categorizes tools before filing an issue.
-  - name: Read the contributing guide
-    url: https://github.com/ginhooser-cyber/ai-agent-landscape/blob/main/CONTRIBUTING.md
-    about: Follow the repo's contribution rules for additions and corrections.
